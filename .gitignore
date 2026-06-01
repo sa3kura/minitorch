@@ -1,0 +1,8 @@
+tmp/
+**/.codex/
+**/.hypothesis/
+**/.pytest_cache/
+**/__pycache__/
+**/*.py[cod]
+**/minitorch.egg-info/
+**/minitorch/cuda_kernels/
