@@ -6,3 +6,4 @@ tmp/
 **/*.py[cod]
 **/minitorch.egg-info/
 **/minitorch/cuda_kernels/
+**/workdir_*/
