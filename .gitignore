@@ -7,3 +7,5 @@ tmp/
 **/minitorch.egg-info/
 **/minitorch/cuda_kernels/
 **/workdir_*/
+**/work_*/
+**/*.pkl
