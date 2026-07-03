@@ -1,0 +1,20 @@
+name: llmsys_hw5
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch=2.2.0
+  - torchvision=0.17.0
+  - torchaudio=2.2.0
+  - pytorch-cuda=12.1
+  - numpy<2
+  - pip:
+      - matplotlib==3.8.3
+      - datasets==3.6.0
+      - embeddings==0.0.8
+      - transformers==4.37.2
+      - sacrebleu==2.4.0
+      - pytest
